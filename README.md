@@ -1,6 +1,4 @@
-
-![images](https://github.com/user-attachments/assets/7579ae5e-811e-4f6b-8bec-cc80b4f89f47)                  
-
+              
 ![1699599355_cars](https://github.com/user-attachments/assets/47523082-20db-4399-84d3-074cfda2708c)
 
 # Exploratory Data Analysis on Car Sales-Ukraine
