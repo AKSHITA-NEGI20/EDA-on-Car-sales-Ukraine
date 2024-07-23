@@ -1,3 +1,6 @@
+
+![images](https://github.com/user-attachments/assets/7579ae5e-811e-4f6b-8bec-cc80b4f89f47)
+
 # Exploratory Data Analysis on Car Sales-Ukraine
 # About Dataset
 This dataset contains data more than 9.5k car sales in Ukraine. Most of then are used car so it open the possibility to analyze features related to car operation. 
