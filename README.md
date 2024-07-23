@@ -1,5 +1,6 @@
 
-![images](https://github.com/user-attachments/assets/7579ae5e-811e-4f6b-8bec-cc80b4f89f47)
+![images](https://github.com/user-attachments/assets/7579ae5e-811e-4f6b-8bec-cc80b4f89f47)![download](https://github.com/user-attachments/assets/8fd22e20-eeca-4412-8102-e02bbf8603d4)
+
 
 # Exploratory Data Analysis on Car Sales-Ukraine
 # About Dataset
